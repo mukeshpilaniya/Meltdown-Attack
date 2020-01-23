@@ -4,6 +4,10 @@
 
 http://funwithbits.net/blog/programmers-guide-to-meltdown/
 
+#Memory Layout of Kernel and UserSpace in Linux
+
+http://learnlinuxconcepts.blogspot.com/2014/03/memory-layout-of-userspace-c-program.htm
+
 #AM i affected by meltdown
 
 https://github.com/raphaelsc/Am-I-affected-by-Meltdown
