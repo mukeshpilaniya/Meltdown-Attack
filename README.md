@@ -17,7 +17,9 @@ https://github.com/raphaelsc/Am-I-affected-by-Meltdown
 https://security.googleblog.com/2018/01/todays-cpu-vulnerability-what-you-need.html
 
 #kpti-kaiser-meltdown-performance
+
 http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.html
 
 #negative-result-reading-kernel-memory-from-user-mode
+
 https://cyber.wtf/2017/07/28/negative-result-reading-kernel-memory-from-user-mode/
