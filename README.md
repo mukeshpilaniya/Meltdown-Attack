@@ -44,3 +44,6 @@ https://www.udemy.com/course/du-computer-security/?couponCode=SEED2020FEB
 
 https://github.com/SamuelXing/MeltdownDemo/tree/master/
 
+#nljewnfewnowe
+
+https://seedsecuritylabs.org/Labs_16.04/System/Meltdown_Attack/
