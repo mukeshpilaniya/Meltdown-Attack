@@ -23,3 +23,7 @@ http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.htm
 #negative-result-reading-kernel-memory-from-user-mode
 
 https://cyber.wtf/2017/07/28/negative-result-reading-kernel-memory-from-user-mode/
+
+#meltdown Labs
+
+https://seedsecuritylabs.org/Labs_16.04/PDF/Meltdown_Attack.pdf
