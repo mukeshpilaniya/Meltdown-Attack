@@ -36,3 +36,11 @@ https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2
 
 http://www.cis.syr.edu/~wedu/seed/Labs_16.04/System/Meltdown_Attack/
 
+#udemy Course
+
+https://www.udemy.com/course/du-computer-security/?couponCode=SEED2020FEB
+
+#github meltdown lab exercise
+
+https://github.com/SamuelXing/MeltdownDemo/tree/master/
+
