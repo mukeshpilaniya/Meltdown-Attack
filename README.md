@@ -26,7 +26,8 @@ https://cyber.wtf/2017/07/28/negative-result-reading-kernel-memory-from-user-mod
 
 #meltdown-explained
 
-#Drk exploit
-https://github.com/sslab-gatech/DrK
-
 https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2
+
+#Drk exploit
+
+https://github.com/sslab-gatech/DrK
